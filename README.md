@@ -13,12 +13,12 @@
 ## Installing
 Install globally:
 
-    npm install -g monthymonks
+    npm install -g @gabowsky/monthymonks
 
 ## Running
 Run command:
 
-    monthymonks
+    @gabowsky/monthymonks
 
 Or import in NodeJS script:
 
@@ -29,7 +29,7 @@ Or import in NodeJS script:
 ## Running with [npx](https://www.npmjs.com/package/npx)
 Run command:
 
-    npx monthymonks
+    npx @gabowsky/monthymonks
 
 
 ## See also

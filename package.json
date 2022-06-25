@@ -1,25 +1,25 @@
 {
-  "name": "daledale",
+  "name": "@gabowsky/monthymonks",
   "version": "1.0.0",
-  "description": "Dale dale dale dale pqp",
+  "description": "Pies Iesu Domine, Dona eis requien!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anabastos/daledale.git"
+    "url": "git+ssh://github.com/ggabo/monthypythonmonks"
   },
   "keywords": [
-    "daledale"
+    "monthymonks"
   ],
-  "author": "AnaBastos",
+  "author": "Gabowsky",
   "license": "MIT",
   "bin": {
     "daledale": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/anabastos/daledale/issues"
+    "url": "https://github.com/ggabo/monthypythonmonks/issues"
   },
   "homepage": "https://github.com/anabastos/daledale#readme",
   "dependencies": {
