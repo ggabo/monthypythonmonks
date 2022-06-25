@@ -18,7 +18,7 @@ Install globally:
 ## Running
 Run command:
 
-    @gabowsky/monthymonks
+    monthymonks
 
 Or import in NodeJS script:
 
