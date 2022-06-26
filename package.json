@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ggabo/monthypythonmonks/issues"
   },
-  "homepage": "https://github.com/anabastos/daledale#readme",
+  "homepage": "https://github.com/ggabo/monthypythonmonks#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   }
